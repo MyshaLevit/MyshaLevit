@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @MyshaLevit
+- 👨‍💻 Developer of J.A.R.V.I.S AI
+- 🧷 Link: https://t.me/AI_Assistant_JARVIS_bot
